@@ -1,0 +1,3 @@
+# Python venv folder
+.venv/*
+utils/__pycache__/weather.cpython-311.pyc
