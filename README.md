@@ -16,8 +16,8 @@ The statement is as follows:
 **Expected output:**
 
 ```json
-Temperature: {
-  "average_temperature": [Calculated average value]
+"Temperature": {
+  "average_temperature": ["Calculated average value"]
 }
 ```
 
@@ -34,7 +34,7 @@ Temperature: {
 
 ```json
 {
-  "sort_ton_parapluie": [List of time slots]
+  "sort_ton_parapluie": ["List of time slots"]
 }
 ```
 
