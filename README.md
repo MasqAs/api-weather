@@ -44,7 +44,7 @@ Temperature: {
 git clone https://github.com/MasqAs/weather-api.git
 python -m venv .venv 
 source .venv/bin/activate
-pip install -r requerements.txt
+pip install -r requierement.txt
 python3 api.py
 ```
 
